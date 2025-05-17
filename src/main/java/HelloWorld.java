@@ -11,4 +11,8 @@ public class HelloWorld {
     public void v1() {
         System.out.println("this is v1 feature.");
     }
+    
+    public void v2_main() {
+        System.out.println("this is v2 feature from main.");
+    }
 }
