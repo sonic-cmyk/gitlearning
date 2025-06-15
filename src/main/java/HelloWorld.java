@@ -28,4 +28,6 @@ public class HelloWorld {
     public void v4() {
         System.out.println("this is exludeShippingLocations");
     }
+
+    public void v5() {}
 }
