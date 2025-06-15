@@ -35,5 +35,5 @@ public class HelloWorld {
 
     public void v7() {}
 
-    public void v7() {}
+    public void v8() {}
 }
