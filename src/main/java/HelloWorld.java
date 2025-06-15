@@ -17,4 +17,8 @@ public class HelloWorld {
     public void v2_main() {
         System.out.println("this is v2 feature from main.");
     }
+
+    public void v3_main() {
+        System.out.println("this is v3 feature from upstream/main.");
+    }
 }
