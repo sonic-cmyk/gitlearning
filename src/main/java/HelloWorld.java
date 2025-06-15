@@ -23,4 +23,8 @@ public class HelloWorld {
     public void v3_main() {
         System.out.println("this is v3 feature from upstream/main.");
     }
+
+    public void v4() {
+        System.out.println("this is exludeShippingLocations");
+    }
 }
