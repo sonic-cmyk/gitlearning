@@ -8,7 +8,7 @@ public class HelloWorld {
         System.out.println("Hello World!");
         System.out.println("Get handlingTimes");
         System.out.println("Get shippingLocations");
-        System.out.println("Get shippingServices");
+        System.out.println("Get shippingServices - approved change");
     }
 
     public void v1() {
