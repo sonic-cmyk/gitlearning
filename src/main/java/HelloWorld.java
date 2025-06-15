@@ -32,4 +32,6 @@ public class HelloWorld {
     public void v5() {}
 
     public void v6() {}
+
+    public void v7() {}
 }
