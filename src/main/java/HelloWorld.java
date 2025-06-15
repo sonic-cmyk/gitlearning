@@ -8,6 +8,7 @@ public class HelloWorld {
         System.out.println("Hello World!");
         System.out.println("Get handlingTimes");
         System.out.println("Get shippingLocations");
+        System.out.println("Get exludeShippingLocations");
         System.out.println("Get shippingServices - approved change");
     }
 
@@ -21,5 +22,9 @@ public class HelloWorld {
 
     public void v3_main() {
         System.out.println("this is v3 feature from upstream/main.");
+    }
+
+    public void v4() {
+        System.out.println("this is exludeShippingLocations");
     }
 }
