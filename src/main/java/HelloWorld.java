@@ -10,6 +10,7 @@ public class HelloWorld {
         System.out.println("Get shippingLocations");
         System.out.println("Get exludeShippingLocations");
         System.out.println("Get shippingServices - approved change");
+        System.out.println("Get shippingCarriers");
     }
 
     public void v1() {
