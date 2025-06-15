@@ -6,7 +6,8 @@
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("Get handlongTimes");
+        System.out.println("Get handlingTimes");
+        System.out.println("Get shippingLocations");
     }
 
     public void v1() {
