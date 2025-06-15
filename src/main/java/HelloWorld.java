@@ -34,4 +34,6 @@ public class HelloWorld {
     public void v6() {}
 
     public void v7() {}
+
+    public void v7() {}
 }
